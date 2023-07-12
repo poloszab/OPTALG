@@ -1,0 +1,2 @@
+# OPTALG
+Optimalizálási Algoritmusok
